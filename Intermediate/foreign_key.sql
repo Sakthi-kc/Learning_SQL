@@ -62,5 +62,5 @@ drop table Users;
 
 /*
 	Mutliple foreign keys --> each of the foreign key has to be a primary key in other tables
-	1 table can have only 1 primary key, hence 2 foreign key means primary key of 2 tables
+	1 table can have only 1 primary key where a primary key can have more than 1 col (Composite key)
 */
